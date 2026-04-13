@@ -9,7 +9,7 @@ NAME        =   libakeron.a
 
 SRC_DIR     =   .
 BIN_DIR     =   .bin
-INC_DIR     =   ../../include
+INC_DIR     =   ../include
 
 CC          =   epiclang
 CFLAGS      =   -I$(INC_DIR) -MMD -MP

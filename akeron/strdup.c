@@ -5,6 +5,7 @@
 ** Function that allocates memory and copies the string given as argument in it.
 */
 #include "akrlib.h"
+#include <stdlib.h>
 
 char *a_strdup(char const *src)
 {

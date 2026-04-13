@@ -6,6 +6,7 @@
 */
 
 #include "akrlib.h"
+#include <stdlib.h>
 
 char *a_strcat(char const *dest, char const *src)
 {

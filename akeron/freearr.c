@@ -6,6 +6,7 @@
 */
 
 #include "akrlib.h"
+#include <stdlib.h>
 
 void freearr(char **array)
 {
